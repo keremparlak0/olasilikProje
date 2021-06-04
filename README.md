@@ -22,6 +22,5 @@ Bu proje; Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü, Olası
 - Permütasyon
 - Kombinasyon
 - Histogram Grafiği Çizimi
-- Hipotez Testi
 
 > Bu proje Java Programlama Dili ile yazılmıştır. Çalıştırılması için Java derleyicileri kullanılmalıdır ve konsol ekranında çalışmaktadır.
